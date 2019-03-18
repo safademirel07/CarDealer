@@ -6,7 +6,7 @@
 
 ![Database](https://i.imgur.com/vWjkOwQ.png)
 
-This script is a simple course project, written in PHP. 
+This script is a simple course project, written in PHP.  More detail can be found in Documentation.docx
 
 Used libraries:
 
