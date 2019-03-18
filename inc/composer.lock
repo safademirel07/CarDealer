@@ -1,0 +1,64 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "43523e1f76fa7e3bdfeec3335e9013a2",
+    "packages": [
+        {
+            "name": "izniburak/pdox",
+            "version": "v1.3.2",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/izniburak/pdox.git",
+                "reference": "3b0fd4d761ddf13e39a75c91007ff091154e80ef"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/izniburak/pdox/zipball/3b0fd4d761ddf13e39a75c91007ff091154e80ef",
+                "reference": "3b0fd4d761ddf13e39a75c91007ff091154e80ef",
+                "shasum": ""
+            },
+            "require": {
+                "ext-pdo": "*",
+                "php": ">=5.4.0"
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "Buki\\": "src"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "İzni Burak Demirtaş",
+                    "email": "info@burakdemirtas.org",
+                    "homepage": "http://burakdemirtas.org"
+                }
+            ],
+            "description": "Useful Query Builder, PDO Class for PHP. A simple access to your SQL records.",
+            "homepage": "https://github.com/izniburak/PDOx",
+            "keywords": [
+                "builder",
+                "pdo",
+                "php",
+                "query",
+                "sql"
+            ],
+            "time": "2018-11-09T08:26:31+00:00"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": [],
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": []
+}

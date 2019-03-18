@@ -1,0 +1,50 @@
+[
+    {
+        "name": "izniburak/pdox",
+        "version": "v1.3.2",
+        "version_normalized": "1.3.2.0",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/izniburak/pdox.git",
+            "reference": "3b0fd4d761ddf13e39a75c91007ff091154e80ef"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/izniburak/pdox/zipball/3b0fd4d761ddf13e39a75c91007ff091154e80ef",
+            "reference": "3b0fd4d761ddf13e39a75c91007ff091154e80ef",
+            "shasum": ""
+        },
+        "require": {
+            "ext-pdo": "*",
+            "php": ">=5.4.0"
+        },
+        "time": "2018-11-09T08:26:31+00:00",
+        "type": "library",
+        "installation-source": "dist",
+        "autoload": {
+            "psr-4": {
+                "Buki\\": "src"
+            }
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "MIT"
+        ],
+        "authors": [
+            {
+                "name": "İzni Burak Demirtaş",
+                "email": "info@burakdemirtas.org",
+                "homepage": "http://burakdemirtas.org"
+            }
+        ],
+        "description": "Useful Query Builder, PDO Class for PHP. A simple access to your SQL records.",
+        "homepage": "https://github.com/izniburak/PDOx",
+        "keywords": [
+            "builder",
+            "pdo",
+            "php",
+            "query",
+            "sql"
+        ]
+    }
+]
